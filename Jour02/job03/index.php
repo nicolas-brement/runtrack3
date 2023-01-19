@@ -11,8 +11,8 @@
 
 <main class="container">
 <body>
-  <article id="citation" style="display:none">La vie a beaucoup plus d’imagination que nous.</article>
-  <button type="button" onclick="toggle_text();">Click me</button>
+<button id="button">Click me</button>
+<p id="compteur">0</p> 
 </body>
 </main>
 
