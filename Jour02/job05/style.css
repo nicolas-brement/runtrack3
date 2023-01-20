@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-height: 4096px;
+}
+footer {
+    width: 0;
+    height: 20px;
+    position: fixed;
+    bottom: 0;
+    background: rgb(0, 79, 139);
+}
+
+
+
+
+
+
